@@ -18,3 +18,7 @@ The dataset was obtained from Kaggle, and you can find it [here](https://www.kag
 ## Disclaimer
 
 PROJECT IS ONGOING, AND RESULTS CANNOT BE REPRODUCED COMPLETELY
+
+This personal project was done with the purpose of learning about CNN and deep learning.
+
+This project was created in WSL2 with the purpose of using Tensorflow / Keras with a GPU.
